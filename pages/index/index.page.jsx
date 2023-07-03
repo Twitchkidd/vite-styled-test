@@ -1,5 +1,5 @@
 import styled from 'styled-components';
-import { Counter } from './Counter';
+import { Counter } from '../../components/Counter';
 
 export { Page };
 
