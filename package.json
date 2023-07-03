@@ -20,6 +20,7 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "sirv": "^2.0.2",
+    "styled-components": "^6.0.1",
     "vite": "^4.0.3",
     "vite-plugin-ssr": "^0.4.132"
   }
