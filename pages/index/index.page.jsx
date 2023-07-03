@@ -19,6 +19,7 @@ function Page() {
 					Interactive. <Counter />
 				</li>
 			</ul>
+			<a href='/blog/2023-07-03'>Blog post</a>
 		</Container>
 	);
 }
